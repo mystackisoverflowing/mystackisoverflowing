@@ -12,8 +12,9 @@ const AboutMe: TAbout = {
     name: "Edward Lewis",
     age : 18,
     interests: ["Cyber Security", "Programming"],
-    frontend: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "React"],
+    frontend: ["JavaScript", "TypeScript", "Python", "Lua", "HTML", "CSS", "React"],
     backend: ["JavaScript", "TypeScript", "Python"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
 }
 ```
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mystackisoverflowing" alt="" /></a> 
