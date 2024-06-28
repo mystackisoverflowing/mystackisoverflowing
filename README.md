@@ -5,7 +5,8 @@ type TAbout = {
     interests: string[],
     frontend: string[],
     backend: string[],
-    databases: string[]
+    databases: string[],
+    askMeAbout: string[]
 }
 
 const AboutMe: TAbout = {
@@ -15,6 +16,7 @@ const AboutMe: TAbout = {
     frontend: ["JavaScript", "TypeScript", "Python", "Lua", "HTML", "CSS", "React"],
     backend: ["JavaScript", "TypeScript", "Python"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    askMeAbout: ["TypeScript", "JavaScript", "Python", "Lua"]
 }
 ```
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mystackisoverflowing" alt="" /></a> 
