@@ -19,4 +19,3 @@ const AboutMe: TAbout = {
     askMeAbout: ["TypeScript", "JavaScript", "Python", "Lua"]
 }
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mystackisoverflowing" alt="" /></a> 
